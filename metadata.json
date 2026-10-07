@@ -1,0 +1,6 @@
+{
+  "name": "Prism Puzzle",
+  "description": "An engaging block and tile puzzle game with an in-game store for power-ups, themes, coin packs, and puzzle packs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
